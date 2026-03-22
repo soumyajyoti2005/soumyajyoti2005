@@ -9,17 +9,8 @@
 
 <br/><br/>
 
-<!-- Cartoon Coder GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Lad typing on computer"/>
-
-<br/><br/>
-
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=soumyajyoti2005&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/soumyajyoti2005?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=Followers)](https://github.com/soumyajyoti2005)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/soumyajyoti2005?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=Total+Stars)](https://github.com/soumyajyoti2005)
+<!-- Boy typing on computer GIF -->
+<img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="360" alt="Boy typing on computer"/>
 
 </div>
 
@@ -27,7 +18,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="coding side gif"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270" alt="boy coding gif"/>
 
 ```python
 class InsightCoder:
@@ -203,8 +194,9 @@ me.say_hi()
 
 <br/>
 
-<!-- Thanks GIF -->
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" alt="Thanks!"/>
+### 🙏 Thanks for visiting my profile!
+
+> _"Keep learning, keep building, keep growing."_ 🚀
 
 <br/>
 
