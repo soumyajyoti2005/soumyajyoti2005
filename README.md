@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<!-- Boy typing on computer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Boy typing on computer"/>
+<!-- Slim boy typing on computer -->
+<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="320" alt="Boy typing on computer"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="boy coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260" alt="slim boy coding"/>
 
 ```python
 class InsightCoder:
