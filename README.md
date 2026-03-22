@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=230&section=header&text=Soumyajyoti%20Ghosh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=⚡%20Insight%20Coder%20—%20Turning%20Data%20into%20Intelligence&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Hey!+I'm+Soumyajyoti+%F0%9F%91%8B+aka+Insight+Coder;Python+%7C+C+%7C+C%2B%2B+Developer;Computer+Vision+%26+Data+Science+Enthusiast;Building+Smart+Health+%26+AI+Apps+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Hey!+I'm+Soumyajyoti+%F0%9F%91%8B+aka+Insight+Coder;Python+%7C+C+%7C+C%2B%2B+Developer;Computer+Vision+%26+Data+Science+Enthusiast;Building+Smart+Health+%26+AI+Apps+%F0%9F%9A%80;" alt="Typing SVG" />
 </a>
 
 <br/><br/>
