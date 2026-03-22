@@ -6,13 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Hey!+I'm+Soumyajyoti+%F0%9F%91%8B+aka+Insight+Coder;Python+%7C+C+%7C+C%2B%2B+Developer;Computer+Vision+%26+Data+Science+Enthusiast;Building+Smart+Health+%26+AI+Apps+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Slim boy coding at dual monitors"/>
+
 </div>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" src="coder.png" width="380" alt="Insight Coder"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260" alt="coding gif"/>
 
 ```python
 class InsightCoder:
@@ -49,118 +53,50 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br/>
-      <b>C</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br/>
-      <b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
-      <b>Python</b>
-    </td>
-  </tr>
-</table>
+<!-- ── ROW 1: Languages + Web Dev side by side ── -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" height="55"/><br/>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Web Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" height="55"/><br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pygame-007ACC?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br/>
-      <b>HTML5</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br/>
-      <b>CSS3</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br/>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/><br/>
-      <b>Flask</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" width="80"/><br/>
-      <b>Streamlit</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Pygame-007ACC?style=flat&logo=python&logoColor=white" width="80"/><br/>
-      <b>Pygame</b>
-    </td>
-  </tr>
-</table>
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Data Science & Computer Vision
+### 📊 Data Science & CV
 
-<div align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" height="30"/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br/>
-      <b>NumPy</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/><br/>
-      <b>OpenCV</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white"/><br/>
-      <b>MediaPipe</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
-      <b>Pandas</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/><br/>
-      <b>Matplotlib</b>
-    </td>
-  </tr>
-</table>
-
-</div>
+</td>
+<td width="50%" valign="top">
 
 ### 🧰 Tools & Platforms
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="55"/>
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/>
-      <b>Git</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br/>
-      <b>GitHub</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode"/><br/>
-      <b>VS Code</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/><br/>
-      <b>Linux</b>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 </div>
@@ -171,23 +107,23 @@ me.say_hi()
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🏥 Personal Health Agent</h3>
-      <p>An AI-powered personal health companion built with Python.<br/>Helps users track and analyse their health data intelligently.</p>
-      <a href="https://github.com/soumyajyoti2005/Personal-Health-Agent">
-        <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>📚 PathShala AI</h3>
-      <p>An AI-powered education platform built with HTML.<br/>Making learning more accessible and personalised using AI.</p>
-      <a href="https://github.com/soumyajyoti2005/PathShalaAI">
-        <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<h3>🏥 Personal Health Agent</h3>
+<p>AI-powered personal health companion built with Python.<br/>Tracks and analyses health data intelligently.</p>
+<a href="https://github.com/soumyajyoti2005/Personal-Health-Agent">
+  <img src="https://img.shields.io/badge/View%20Repo-%237c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%" align="center">
+<h3>📚 PathShala AI</h3>
+<p>AI-powered education platform built with HTML.<br/>Making learning more accessible and personalised.</p>
+<a href="https://github.com/soumyajyoti2005/PathShalaAI">
+  <img src="https://img.shields.io/badge/View%20Repo-%237c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
 </table>
 
 </div>
@@ -231,18 +167,18 @@ me.say_hi()
 <div align="center">
 
 <table>
-  <tr>
-    <td>👁️ Computer Vision with OpenCV & MediaPipe</td>
-    <td>🏥 AI Health & Wellness Applications</td>
-  </tr>
-  <tr>
-    <td>📚 AI-powered Education Tools</td>
-    <td>🧠 LLMs, Agents & Generative AI</td>
-  </tr>
-  <tr>
-    <td>📊 Data Science & Visualisation pipelines</td>
-    <td>🎮 Pygame experiments for fun</td>
-  </tr>
+<tr>
+<td>👁️ Computer Vision with OpenCV & MediaPipe</td>
+<td>🏥 AI Health & Wellness Applications</td>
+</tr>
+<tr>
+<td>📚 AI-powered Education Tools</td>
+<td>🧠 LLMs, Agents & Generative AI</td>
+</tr>
+<tr>
+<td>📊 Data Science & Visualisation pipelines</td>
+<td>🎮 Pygame experiments for fun</td>
+</tr>
 </table>
 
 </div>
@@ -251,7 +187,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake contribution animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake.svg"/>
