@@ -55,47 +55,69 @@ me.say_hi()
 
 <div align="center">
 
-<!-- ── ROW 1: Languages + Web Dev side by side ── -->
-<table width="100%">
+<table cellspacing="0" cellpadding="20" style="border-collapse:separate; border-spacing:12px;">
 <tr>
-<td width="50%" valign="top">
 
-### 💻 Programming Languages
+<!-- ── BIG OUTER CARD TOP ROW ── -->
+<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" height="55"/><br/>
+**💻 Programming Languages**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" height="58"/>
 
 </td>
-<td width="50%" valign="top">
 
-### 🌐 Web Development
+<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" height="55"/><br/><br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+**🌐 Web Development**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" height="58"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Pygame-007ACC?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Pygame-007ACC?style=for-the-badge&logo=python&logoColor=white" height="28"/>
 
 </td>
+
 </tr>
-
 <tr>
-<td width="50%" valign="top">
 
-### 📊 Data Science & CV
+<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" height="30"/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+**📊 Data Science & CV**
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" height="28"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="28"/>
 
 </td>
-<td width="50%" valign="top">
 
-### 🧰 Tools & Platforms
+<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="55"/>
+**🧰 Tools & Platforms**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="58"/>
 
 </td>
+
 </tr>
 </table>
 
