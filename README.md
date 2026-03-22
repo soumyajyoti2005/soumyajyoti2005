@@ -1,16 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=230&section=header&text=Soumyajyoti%20Ghosh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=⚡%20Insight%20Coder%20—%20Turning%20Data%20into%20Intelligence&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Hey!+I'm+Soumyajyoti+%F0%9F%91%8B+aka+Insight+Coder;Python+%7C+C+%7C+C%2B%2B+Developer;Computer+Vision+%26+Data+Science+Enthusiast;Building+Smart+Health+%26+AI+Apps+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
-<!-- Slim boy typing on computer -->
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="320" alt="Boy typing on computer"/>
+<!-- Boy typing on computer GIF -->
+<img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="360" alt="Boy typing on computer"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Boy typing on computer"/>
 
 </div>
 
@@ -18,24 +10,25 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260" alt="slim boy coding"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270" alt="boy coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="boy coding gif"/>
 
 ```python
 class InsightCoder:
-    name       = "Soumyajyoti Ghosh"
-    aka        = "Insight Coder ⚡"
-    location   = "West Bengal, India 🇮🇳"
-    languages  = ["Python", "C", "C++"]
-    web        = ["HTML", "CSS", "JS", "Flask", "Streamlit", "Pygame"]
-    ds_tools   = ["NumPy", "OpenCV", "MediaPipe", "Pandas"]
-    projects   = ["Personal Health Agent 🏥",
-                  "PathShala AI 📚",
-                  "ScaleDown 📉"]
-    currently  = "Building AI-powered health & education tools"
-    fun_fact   = "I see the world through camera matrices 📸"
+name       = "Soumyajyoti Ghosh"
+aka        = "Insight Coder ⚡"
+location   = "West Bengal, India 🇮🇳"
+languages  = ["Python", "C", "C++"]
+web        = ["HTML", "CSS", "JS", "Flask", "Streamlit", "Pygame"]
+ds_tools   = ["NumPy", "OpenCV", "MediaPipe", "Pandas"]
+projects   = ["Personal Health Agent 🏥",
+"PathShala AI 📚",
+"ScaleDown 📉"]
+currently  = "Building AI-powered health & education tools"
+fun_fact   = "I see the world through camera matrices 📸"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
+def say_hi(self):
+print("Thanks for dropping by! Let's build something amazing 🚀")
 
 me = InsightCoder()
 me.say_hi()
@@ -187,9 +180,9 @@ me.say_hi()
 
 <!-- Snake contribution animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake.svg"/>
+<img alt="Snake animation" src="https://raw.githubusercontent.com/soumyajyoti2005/soumyajyoti2005/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/>
