@@ -55,67 +55,57 @@ me.say_hi()
 
 <div align="center">
 
-<table cellspacing="0" cellpadding="20" style="border-collapse:separate; border-spacing:12px;">
+<table>
 <tr>
 
-<!-- ── BIG OUTER CARD TOP ROW ── -->
-<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
-
-**💻 Programming Languages**
-
+<td align="center" valign="top" width="160">
 <br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" height="58"/>
-
-</td>
-
-<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
-
-**🌐 Web Development**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" height="58"/>
-
+<b>💻 Languages</b>
 <br/><br/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pygame-007ACC?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-
+<img src="https://skillicons.dev/icons?i=c&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+<br/><br/>
 </td>
 
-</tr>
-<tr>
-
-<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
-
-**📊 Data Science & CV**
-
+<td align="center" valign="top" width="220">
 <br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" height="28"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-
+<b>🌐 Web Dev</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Pygame-007ACC?style=flat-square&logo=python&logoColor=white" height="22"/>
+<br/><br/>
 </td>
 
-<td align="center" valign="top" style="border:2px solid #444; border-radius:16px; padding:20px; background:#0d1117;">
-
-**🧰 Tools & Platforms**
-
+<td align="center" valign="top" width="200">
 <br/>
+<b>📊 Data Science</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="22"/>
+<br/>
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logo=google&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22"/>
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="22"/>
+<br/><br/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="58"/>
-
+<td align="center" valign="top" width="180">
+<br/>
+<b>🧰 Tools</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40"/>
+<br/><br/>
 </td>
 
 </tr>
