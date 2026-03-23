@@ -129,9 +129,9 @@ me.say_hi()
 </a>
 </td>
 <td width="50%" align="center">
-<h3>📚 PathShala AI</h3>
+<h3>📚 Edulite AI</h3>
 <p>AI-powered education platform built with HTML.<br/>Making learning more accessible and personalised.</p>
-<a href="https://github.com/soumyajyoti2005/PathShalaAI">
+<a href="https://github.com/soumyajyoti2005/Edulite-AI">
   <img src="https://img.shields.io/badge/View%20Repo-%237c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
