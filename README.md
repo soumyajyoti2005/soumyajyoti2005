@@ -197,6 +197,24 @@ me.say_hi()
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/INSIGHT_CODER/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/INSIGHT_CODER?theme=dark&font=Karma&ext=contest&border=0&radius=20" width="70%" alt="LeetCode Stats Card"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/INSIGHT_CODER/" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=7c3aed&label=LeetCode&query=solvedProblem&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FINSIGHT_CODER&logo=leetcode&logoColor=FFA116&suffix=%20Problems%20Solved" alt="LeetCode Problems Solved"/>
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 <picture>
@@ -212,6 +230,20 @@ me.say_hi()
 > _"Keep learning, keep building, keep growing."_ 🚀
 
 <br/>
+
+---
+
+### 🌐 Let's Connect & Follow
+
+<a href="https://leetcode.com/u/INSIGHT_CODER/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Follow%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" height="38"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/soumyajyoti-ghosh-589558374" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" height="38"/>
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
