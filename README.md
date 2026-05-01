@@ -215,6 +215,20 @@ me.say_hi()
 
 ---
 
+## 🏅 LeetCode Badges
+
+<!-- LEETCODE-BADGES:START -->
+<div align="center">
+
+**🏅 Total Badges Earned: 0**
+
+_No badges earned yet — keep grinding! 💪_
+
+</div>
+<!-- LEETCODE-BADGES:END -->
+
+---
+
 <div align="center">
 
 <picture>
@@ -252,43 +266,3 @@ me.say_hi()
 ⭐ **If you find my work useful — drop a star on my repos!** ⭐
 
 </div>
-
-
-<!-- LEETCODE-BADGES:START -->
-<div align="center">
-
-**🏅 Total Badges Earned: 3**
-
-<table align="center">
-<tr>
-<td align="center" width="110">
-  <img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="60" height="60" alt="200 Days Badge 2025"/>
-  <br/>
-  <sub><b>200 Days Badge 2025</b></sub>
-  <br/>
-  <sub>2025-12-31</sub>
-</td>
-<td align="center" width="110">
-  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="60" height="60" alt="100 Days Badge 2025"/>
-  <br/>
-  <sub><b>100 Days Badge 2025</b></sub>
-  <br/>
-  <sub>2025-09-16</sub>
-</td>
-<td align="center" width="110">
-  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="60" height="60" alt="50 Days Badge 2025"/>
-  <br/>
-  <sub><b>50 Days Badge 2025</b></sub>
-  <br/>
-  <sub>2025-07-23</sub>
-</td>
-</tr>
-</table>
-
-### 🔜 Upcoming Badges
-
-<img src="https://leetcode.com/static/images/badges/dcc-2026-5.png" width="24" height="24"/> **May LeetCoding Challenge** — `░░░░░░░░░░` 3%  
-<img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" width="24" height="24"/> **Jun LeetCoding Challenge** — `░░░░░░░░░░` 0%  
-<img src="https://leetcode.com/static/images/badges/dcc-2026-7.png" width="24" height="24"/> **Jul LeetCoding Challenge** — `░░░░░░░░░░` 0%  
-</div>
-<!-- LEETCODE-BADGES:END -->
