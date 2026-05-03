@@ -250,7 +250,7 @@ me.say_hi()
 
 ### 🔜 Upcoming Badges
 
-<img src="https://leetcode.com/static/images/badges/dcc-2026-5.png" width="24" height="24"/> **May LeetCoding Challenge** — `░░░░░░░░░░` 3%  
+<img src="https://leetcode.com/static/images/badges/dcc-2026-5.png" width="24" height="24"/> **May LeetCoding Challenge** — `░░░░░░░░░░` 6%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" width="24" height="24"/> **Jun LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-7.png" width="24" height="24"/> **Jul LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 </div>
