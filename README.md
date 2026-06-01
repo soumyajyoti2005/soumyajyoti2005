@@ -220,10 +220,17 @@ me.say_hi()
 <!-- LEETCODE-BADGES:START -->
 <div align="center">
 
-**🏅 Total Badges Earned: 3**
+**🏅 Total Badges Earned: 4**
 
 <table align="center">
 <tr>
+<td align="center" width="110">
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-5.png" width="60" height="60" alt="May LeetCoding Challenge"/>
+  <br/>
+  <sub><b>May LeetCoding Challenge</b></sub>
+  <br/>
+  <sub>2026-05-31</sub>
+</td>
 <td align="center" width="110">
   <img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="60" height="60" alt="200 Days Badge 2025"/>
   <br/>
@@ -250,7 +257,6 @@ me.say_hi()
 
 ### 🔜 Upcoming Badges
 
-<img src="https://leetcode.com/static/images/badges/dcc-2026-5.png" width="24" height="24"/> **May LeetCoding Challenge** — `█████████░` 96%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" width="24" height="24"/> **Jun LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-7.png" width="24" height="24"/> **Jul LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-8.png" width="24" height="24"/> **Aug LeetCoding Challenge** — `░░░░░░░░░░` 0%  
