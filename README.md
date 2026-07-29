@@ -260,6 +260,7 @@ me.say_hi()
 <img src="https://leetcode.com/static/images/badges/dcc-2026-7.png" width="24" height="24"/> **Jul LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-8.png" width="24" height="24"/> **Aug LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-9.png" width="24" height="24"/> **Sep LeetCoding Challenge** — `░░░░░░░░░░` 0%  
+<img src="https://leetcode.com/static/images/badges/dcc-2026-10.png" width="24" height="24"/> **Oct LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 </div>
 <!-- LEETCODE-BADGES:END -->
 
