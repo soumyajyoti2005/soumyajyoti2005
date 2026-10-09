@@ -259,6 +259,7 @@ me.say_hi()
 
 <img src="https://leetcode.com/static/images/badges/dcc-2026-10.png" width="24" height="24"/> **Oct LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 <img src="https://leetcode.com/static/images/badges/dcc-2026-11.png" width="24" height="24"/> **Nov LeetCoding Challenge** — `░░░░░░░░░░` 0%  
+<img src="https://leetcode.com/static/images/badges/dcc-2026-12.png" width="24" height="24"/> **Dec LeetCoding Challenge** — `░░░░░░░░░░` 0%  
 </div>
 <!-- LEETCODE-BADGES:END -->
 
